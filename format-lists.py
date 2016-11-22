@@ -1,4 +1,5 @@
 #coding=utf-8
+import re
 count = 0
 # FFS Python, there has got to be a better way to do this...
 print "Alphabetizing list..."
@@ -34,5 +35,13 @@ with open('zebra.txt') as src:
 					html.write('\t<li>%s</li>\n' % html_line)
 				html.write('</ol>\n')
 print
-print "Successfully formatted %d lines" % count
+print "Successfully formatted %d lines!" % count
+print
+print "Updating README..."
+readme_content = ''
+with open('README.md') as readme:
+	readme_content = ''.join(readme.read())
+with open('README.md', 'w') as readme:
+	readme.write(re.sub(r'\*\d+ things to do with a zebra\*', '*%d things to do with a zebra*' % count, readme_content))
+print "Done!"
 raw_input("Press enter to continue... ")

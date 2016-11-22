@@ -1,2 +1,3 @@
 # The Zebra Project
 In 7th grade, my engineering teacher assigned us a quick mental exercise as busywork: list one hundred things you could do with a zebra. By the next day, I had printed out my list of 500. Since then, my friends and I have slowly been accumulating more words. This repository contains the list in its entirety, alphabetized for your convenience, of things one could do with a zebra.
+We currently have *1269 things to do with a zebra*! If you'd like to contribute, just submit a pull request to add a line at the end of `zebra.txt` -- `format-lists.py` will handle the rest.
