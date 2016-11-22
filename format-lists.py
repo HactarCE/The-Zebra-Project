@@ -1,5 +1,13 @@
+#coding=utf-8
 count = 0
 # FFS Python, there has got to be a better way to do this...
+print "Alphabetizing list..."
+new_list = ''
+with open('zebra.txt') as src:
+	new_list = '\n'.join(sorted(line.strip() for line in src.readlines() if line.strip()))
+with open('zebra.txt', 'w') as src:
+	src.write(new_list)
+print "Formatting list..."
 with open('zebra.txt') as src:
 	with open('formats/numbered.txt', 'w') as numbered:
 		with open('formats/zebra.md', 'w') as markdown:
