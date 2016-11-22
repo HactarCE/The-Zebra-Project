@@ -45,6 +45,10 @@ with open('zebra.txt') as src:
 					elif line == 'Underline the zebra':
 						print "Underlining the zebra..."
 						html_line = 'Underline <u>the zebra</u>'
+					elif line == 'Strike the zebra':
+						print "Striking the zebra..."
+						markdown_line = 'Strike ~~the zebra~~'
+						html_line = 'Strike <strike>the zebra</strike>'
 					numbered.write('%d. %s\n' % (count, line))
 					markdown.write('%d. %s\n' % (count, markdown_line))
 					html.write('\t<li>%s</li>\n' % html_line)

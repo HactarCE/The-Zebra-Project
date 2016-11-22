@@ -1111,7 +1111,7 @@ We currently have **1269 things to do with a zebra**! The full list can be found
 1098. Stratify the zebra
 1099. Strengthen the zebra
 1100. Stretch the zebra
-1101. Strike the zebra
+1101. Strike ~~the zebra~~
 1102. Study the zebra
 1103. Stuff the zebra
 1104. Stun the zebra
