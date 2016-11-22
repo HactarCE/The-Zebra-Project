@@ -5,12 +5,12 @@ readme_content = """# The Zebra Project
 
 In 7th grade, my engineering teacher assigned us a quick mental exercise as busywork: list one hundred things you could do with a zebra. By the next day, I had printed out my list of 500. Since then, my friends and I have slowly been accumulating more words. This repository contains the list in its entirety, alphabetized for your convenience, of things one could do with a zebra.
 
-We currently have **%d things to do with a zebra**! The full list can be found in several formats, including [plain text], [numbered plain text], [markdown], and [HTML] (doesn't show properly unless embedded or downloaded). If you'd like to contribute, just submit a pull request to add a line at the end of `zebra.txt` and `format-lists.py` will handle the rest.
+We currently have **%d things to do with a zebra**! The full list can be found in several formats, including [plain text], [numbered plain text], [markdown], and [HTML]. If you'd like to contribute, just submit a pull request to add a line at the end of `zebra.txt` and `format-lists.py` will handle the rest.
 
-[plain text] https://raw.githubusercontent.com/HactarCE/The-Zebra-Project/master/zebra.txt
-[numbered plain text] https://raw.githubusercontent.com/HactarCE/The-Zebra-Project/master/formats/numbered.txt
-[markdown] https://raw.githubusercontent.com/HactarCE/The-Zebra-Project/master/formats/zebra.md
-[HTML] https://raw.githubusercontent.com/HactarCE/The-Zebra-Project/master/formats/zebra.html
+[plain text]: zebra.txt
+[numbered plain text]: formats/numbered.txt
+[markdown]: formats/zebra.md
+[HTML]: formats/zebra.html
 
 ## The List
 
