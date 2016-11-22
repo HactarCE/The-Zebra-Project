@@ -1,10 +1,10 @@
 count = 0
 # FFS Python, there has got to be a better way to do this...
 with open('zebra.txt') as src:
-	with open('numbered.txt', 'w') as numbered:
-		with open('zebra.md', 'w') as markdown:
-			with open('zebra.html', 'w') as html:
-				html.write('<ul>\n')
+	with open('formats/numbered.txt', 'w') as numbered:
+		with open('formats/zebra.md', 'w') as markdown:
+			with open('formats/zebra.html', 'w') as html:
+				html.write('<ol>\n')
 				for line in src:
 					line = line.strip()
 					count += 1
@@ -24,7 +24,7 @@ with open('zebra.txt') as src:
 					numbered.write('%d. %s\n' % (count, line))
 					markdown.write('%d. %s\n' % (count, markdown_line))
 					html.write('\t<li>%s</li>\n' % html_line)
-				html.write('</ul>\n')
+				html.write('</ol>\n')
 print
 print "Successfully formatted %d lines" % count
 raw_input("Press enter to continue... ")
