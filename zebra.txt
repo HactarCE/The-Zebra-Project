@@ -99,6 +99,7 @@ Bisect the zebra
 Bite the zebra
 Blacklist the zebra
 Blackmail the zebra
+Blame the zebra
 Blast the zebra
 Blind the zebra
 Blunt the zebra
@@ -420,6 +421,7 @@ Exhaust the zebra
 Exhilarate the zebra
 Exhume the zebra
 Exit the zebra
+Exorcize the zebra
 Expand the zebra
 Expect the zebra
 Expel the zebra
@@ -432,6 +434,7 @@ Express the zebra
 Extend the zebra
 Exterminate the zebra
 Extinguish the zebra
+Extort the zebra
 Extract the zebra
 Extrapolate the zebra
 Extricate the zebra
@@ -614,6 +617,7 @@ Jam the zebra
 Jangle the zebra
 Join the zebra
 Judge the zebra
+Juggle the zebra
 Juice the zebra
 Justify the zebra
 Karyotype the zebra
@@ -987,6 +991,7 @@ Sail the zebra
 Salt the zebra
 Sample the zebra
 Sanctify the zebra
+Satiate the zebra
 Sauté the zebra
 Save the zebra
 Saw the zebra
@@ -1004,6 +1009,7 @@ Script the zebra
 Scrutinize the zebra
 Seal the zebra
 Search the zebra
+Season the zebra
 Seat the zebra
 Secure the zebra
 Seduce the zebra
@@ -1061,6 +1067,7 @@ Smelt the zebra
 Smother the zebra
 Snipe the zebra
 Soak the zebra
+Sober the zebra
 Soften the zebra
 Solve the zebra
 Souse the zebra
