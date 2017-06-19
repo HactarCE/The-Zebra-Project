@@ -25,7 +25,6 @@ Administrate the zebra
 Admire the zebra
 Admit the zebra
 Adopt the zebra
-Adopt the zebra
 Adore the zebra
 Advise the zebra
 Affect the zebra
@@ -812,6 +811,8 @@ Pollinate the zebra
 Pop the zebra
 Portray the zebra
 Post the zebra
+Pour the zebra
+Practice the zebra
 Precompile the zebra
 Predict the zebra
 Preprocess the zebra
@@ -827,6 +828,7 @@ Program the zebra
 Promote the zebra
 Proofread the zebra
 Propel the zebra
+Prorate the zebra
 Protect the zebra
 Prune the zebra
 Pull the zebra
@@ -855,6 +857,7 @@ Radio the zebra
 Raid the zebra
 Raise the zebra
 Randomize the zebra
+Rap the zebra
 Rate the zebra
 Rattle the zebra
 Raze the zebra
@@ -923,6 +926,7 @@ Rend the zebra
 Renovate the zebra
 Rent the zebra
 Reorganize the zebra
+Repaint the zebra
 Repair the zebra
 Repeal the zebra
 Repeat the zebra
@@ -1232,6 +1236,7 @@ Use the zebra
 Vacuum the zebra
 Validate the zebra
 Value the zebra
+Vandalize the zebra
 Vaporize the zebra
 Veil the zebra
 Vent the zebra
@@ -1241,7 +1246,10 @@ Veto the zebra
 Vex the zebra
 Vibrate the zebra
 View the zebra
+Vilify the zebra
 Vindicate the zebra
+Viscerate the zebra
+Visualize the zebra
 Void the zebra
 Vomit the zebra
 Want the zebra
@@ -1261,12 +1269,14 @@ Whirl the zebra
 Whitelist the zebra
 Whiten the zebra
 Whittle the zebra
+Win the zebra
 Wind the zebra
 Wipe the zebra
 Withdraw the zebra
 Work the zebra
 Worship the zebra
 Wound the zebra
+Wrangle the zebra
 Wrap the zebra
 Wreck the zebra
 Wrestle the zebra
