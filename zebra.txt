@@ -990,7 +990,6 @@ Run the zebra
 Rupture the zebra
 Rush the zebra
 Rustle the zebra
-SMITE THE ZEBRA
 Sack the zebra
 Sacrifice the zebra
 Sadden the zebra
@@ -1011,6 +1010,7 @@ Score the zebra
 Scramble the barze
 Scrap the zebra
 Scratch the zebra
+Screen the zebra
 Screw in the zebra
 Script the zebra
 Scrutinize the zebra
@@ -1071,6 +1071,7 @@ Smack the zebra
 Smash the zebra
 Smell the zebra
 Smelt the zebra
+SMITE THE ZEBRA
 Smother the zebra
 Snipe the zebra
 Soak the zebra
