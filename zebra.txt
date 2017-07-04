@@ -60,6 +60,7 @@ Assimilate the zebra
 Atomize the zebra
 Attach the zebra
 Attenuate the zebra
+Attest the zebra
 Authenticate the zebra
 Authorize the zebra
 Autograph the zebra
@@ -149,6 +150,7 @@ Carve the zebra
 Cast the zebra
 Catalog the zebra
 Categorize the zebra
+Cater the zebra
 Cause the zebra
 Censor the zebra
 Center the zebra
@@ -211,6 +213,7 @@ Copy the zebra
 Copyright the zebra
 Correct the zebra
 Corrode the zebra
+Corrupt the zebra
 Count the zebra
 Counter the zebra
 Countermand the zebra
@@ -521,6 +524,7 @@ Guesstimate the zebra
 Guide the zebra
 Hack the zebra
 Hail the zebra
+Hallow the zebra
 Halt the zebra
 Hammer the zebra
 Hand the zebra

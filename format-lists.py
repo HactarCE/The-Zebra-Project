@@ -3,7 +3,7 @@
 count = 0
 readme_content = """# The Zebra Project
 
-*We do not endorse the harming of zebras in any way. This "project" is entirely for humorous purpose of smashing random verbs with the word "zebra."*
+*We do not endorse the harming of zebras in any way. This "project" is entirely for the humorous purpose of smashing random verbs with the word "zebra."*
 
 In 7th grade, my engineering teacher assigned us a quick mental exercise as busywork: list one hundred things you could do with a zebra. By the next day, I had printed out my list of 500. Since then, my friends and I have slowly been accumulating more words. This repository contains the list in its entirety, alphabetized for your convenience, of things one could do with a zebra.
 
