@@ -2,7 +2,7 @@
 
 *We do not endorse the harming of zebras in any way. This "project" is entirely for the humorous purpose of smashing random verbs with the word "zebra."*
 
-In 7th grade, my engineering teacher assigned us a quick mental exercise as busywork: list one hundred things you could do with a zebra. By the next day, I had printed out my list of 500. Since then, my friends and I have slowly been accumulating more words. This repository contains the list in its entirety, alphabetized for your convenience, of things one could do with a zebra.
+In 7th grade, my engineering teacher assigned us a quick mental exercise as busywork: list one hundred things you could do with a zebra, with 1% extra credit for each additional one. By the next day, I had printed out my list of 500. Since then, my friends and I have slowly been accumulating more words. This repository contains the list in its entirety, alphabetized for your convenience, of things one could do with a zebra.
 
 We currently have **1295 things to do with a zebra**! The full list can be found in several formats, including [plain text], [numbered plain text], [markdown], and [HTML]. If you'd like to contribute, just submit a pull request to add a line at the end of `zebra.txt` and `format-lists.py` will handle the rest.
 

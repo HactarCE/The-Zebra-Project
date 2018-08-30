@@ -1,13 +1,12 @@
-#coding=utf-8
+#!/usr/bin/env python3
 
-count = 0
 readme_content = """# The Zebra Project
 
 *We do not endorse the harming of zebras in any way. This "project" is entirely for the humorous purpose of smashing random verbs with the word "zebra."*
 
-In 7th grade, my engineering teacher assigned us a quick mental exercise as busywork: list one hundred things you could do with a zebra. By the next day, I had printed out my list of 500. Since then, my friends and I have slowly been accumulating more words. This repository contains the list in its entirety, alphabetized for your convenience, of things one could do with a zebra.
+In 7th grade, my engineering teacher assigned us a quick mental exercise as busywork: list one hundred things you could do with a zebra, with 1% extra credit for each additional one. By the next day, I had printed out my list of 500. Since then, my friends and I have slowly been accumulating more words. This repository contains the list in its entirety, alphabetized for your convenience, of things one could do with a zebra.
 
-We currently have **%d things to do with a zebra**! The full list can be found in several formats, including [plain text], [numbered plain text], [markdown], and [HTML]. If you'd like to contribute, just submit a pull request to add a line at the end of `zebra.txt` and `format-lists.py` will handle the rest.
+We currently have **{count} things to do with a zebra**! The full list can be found in several formats, including [plain text], [numbered plain text], [markdown], and [HTML]. If you'd like to contribute, just submit a pull request to add a line at the end of `zebra.txt` and `format-lists.py` will handle the rest.
 
 [plain text]: zebra.txt
 [numbered plain text]: formats/numbered.txt
@@ -16,51 +15,73 @@ We currently have **%d things to do with a zebra**! The full list can be found i
 
 ## The List
 
-%s"""
+"""
 
-# FFS Python, there has got to be a better way to do this...
-# print "Alphabetizing list..."
-# new_list = ''
-# with open('zebra.txt') as src:
-# 	new_list = '\n'.join(sorted(line.strip() for line in src.readlines() if line.strip()))
-# with open('zebra.txt', 'w') as src:
-# 	src.write(new_list)
-print "Formatting list..."
-with open('zebra.txt') as src:
-	with open('formats/numbered.txt', 'w') as numbered:
-		with open('formats/zebra.md', 'w') as markdown:
-			with open('formats/zebra.html', 'w') as html:
-				html.write('<ol>\n')
-				for line in src:
-					line = line.strip()
-					count += 1
-					markdown_line = line
-					html_line = line
-					if line == 'Embolden the zebra':
-						print "Emboldening the zebra..."
-						markdown_line = 'Enbolden **the zebra**'
-						html_line = 'Enbolden <b>the zebra</b>'
-					elif line == 'Italicize the zebra':
-						print "Italicizing the zebra..."
-						markdown_line = 'Italicize *the zebra*'
-						html_line = 'Italicize <i>the zebra</i>'
-					elif line == 'Underline the zebra':
-						print "Underlining the zebra..."
-						html_line = 'Underline <u>the zebra</u>'
-					elif line == 'Strike the zebra':
-						print "Striking the zebra..."
-						markdown_line = 'Strike ~~the zebra~~'
-						html_line = 'Strike <strike>the zebra</strike>'
-					numbered.write('%d. %s\n' % (count, line))
-					markdown.write('%d. %s\n' % (count, markdown_line))
-					html.write('\t<li>%s</li>\n' % html_line)
-				html.write('</ol>\n')
-print
-print "Successfully formatted %d lines!" % count
-print
-print "Updating README..."
-with open('README.md', 'w') as readme:
-	with open('formats/zebra.md') as markdown:
-		readme.write(readme_content % (count, ''.join(markdown.readlines())))
-print "Done!"
-raw_input("Press enter to continue... ")
+markdown_format = {
+    'line-format': '{n}. {s}\n',
+    'exceptions': {
+        'Embolden the zebra': 'Enbolden **the zebra**',
+        'Italicize the zebra': 'Italicize *the zebra*',
+        'Strike the zebra': 'Strike ~~the zebra~~'
+    }
+}
+
+formats = [
+    {
+        'file': 'README.md',
+        'pre': readme_content,
+        **markdown_format
+    },
+    {
+        'file': 'formats/numbered.txt',
+        'line-format': '{n}. {s}\n',
+        'exceptions': {}
+    },
+    {
+        'file': 'formats/zebra.md',
+        **markdown_format
+    },
+    {
+        'file': 'formats/zebra.html',
+        'pre': '<ol>\n',
+        'post': '</ol>\n',
+        'line-format': '\t<li>{s}</li>\n',
+        'exceptions': {
+            'Embolden the zebra': 'Enbolden <b>the zebra</b>',
+            'Italicize the zebra': 'Italicize <i>the zebra</i>',
+            'Underline the zebra': 'Underline <u>the zebra</u>',
+            'Strike the zebra': 'Strike <strike>the zebra</strike>'
+        }
+    }
+]
+
+
+print("Formatting list...")
+
+lines = []
+with open('zebra.txt') as f:
+    for line in f:
+        line = line.strip()
+        if line:
+            lines.append(line)
+
+for fmt in formats:
+    with open(fmt['file'], 'w') as f:
+        if 'pre' in fmt:
+            f.write(fmt['pre'].format(count=len(lines)))
+        n = 0
+        for line in lines:
+            n += 1
+            line = line.strip()
+            if line:
+                try:
+                    s = fmt['exceptions'][line]
+                except KeyError:
+                    s = line
+                formatted_line = fmt['line-format'].format(n=n, s=s)
+                f.write(formatted_line)
+        if 'post' in fmt:
+            f.write(fmt['post'].format(count=len(lines)))
+        print(f"{n} lines written to {fmt['file']}")
+
+print("Done!")
