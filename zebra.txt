@@ -44,6 +44,7 @@ Anger the zebra
 Annihilate the zebra
 Annoy the zebra
 Annul the zebra
+Antiquate the zebra
 Appease the zebra
 Apply the zebra
 Appreciate the zebra
@@ -90,6 +91,7 @@ Bejewel the zebra
 Believe in the zebra
 Belittle the zebra
 Berate the zebra
+Bestow the zebra
 Bet the zebra
 Betray the zebra
 Bewitch the zebra
@@ -402,6 +404,7 @@ Entertain the zebra
 Entomb the zebra
 Entrance the zebra
 Equalize the zebra
+Equilibrate the zebra
 Equip the zebra
 Eradicate the zebra
 Erase the zebra
@@ -512,9 +515,11 @@ Glitch the zebra
 Globalize the zebra
 Glue the zebra
 Google "the zebra"
+Grab the zebra
 Grade the zebra
 Graduate the zebra
 Graph the zebra
+grep "the zebra"
 Grill the zebra
 Grind the zebra
 Groom the zebra
@@ -554,6 +559,7 @@ Hydrogenate the zebra
 Hyphenate the zebra
 Hypnotize the zebra
 Hypothesize the zebra
+Idealize the zebra
 Identify the zebra
 Idolize the zebra
 Ignite the zebra
@@ -606,6 +612,7 @@ Interpret the zebra
 Interrogate the zebra
 Interview the zebra
 Intoxicate the zebra
+Intuit the zebra
 Invalidate the zebra
 Invent the zebra
 Invert the zebra
@@ -829,6 +836,7 @@ Print the zebra
 Process the zebra
 Profile the zebra
 Program the zebra
+Proliferate the zebra
 Promote the zebra
 Proofread the zebra
 Propel the zebra
@@ -876,6 +884,7 @@ Reboot the zebra
 Rebuild the zebra
 Recall the zebra
 Recapitalize The Zebra
+Recapitulate the zebra
 Reciprocate the zebra
 Recolor the zebra
 Recombine the zebra
@@ -1269,6 +1278,7 @@ Weaponize the zebra
 Wear the zebra
 Weigh the zebra
 Weight the zebra
+Weird the zebra
 Whack the zebra
 Whirl the zebra
 Whitelist the zebra
