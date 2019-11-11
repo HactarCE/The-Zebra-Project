@@ -523,6 +523,7 @@ Fit the zebra
 Fix the zebra
 Flag the zebra
 Flatten the zebra
+Flavor the zebra
 Flick the zebra
 Flip the zebra
 Float the zebra
