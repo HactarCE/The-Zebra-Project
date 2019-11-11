@@ -1018,7 +1018,7 @@ We currently have **1335 things to do with a zebra**! The full list can be found
 1001. Reuse the zebra
 1002. Rev the zebra
 1003. Revere the zebra
-1004. Reverse the zebra
+1004. Reverse eht arbez
 1005. Revert the zebra
 1006. Review the zebra
 1007. Revise the zebra
