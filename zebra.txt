@@ -121,6 +121,7 @@ Bounce the zebra
 Box the zebra
 Braid the zebra
 Brainwash the zebra
+Breach the zebra
 Break the zebra
 Breathe on the zebra
 Breed the zebra
@@ -291,6 +292,7 @@ Deflate the zebra
 Deflect the zebra
 Deform the zebra
 Defrag the zebra
+Defy the zebra
 Degenerate the zebra
 Degrade the zebra
 Dehydrate the zebra
@@ -530,6 +532,7 @@ Float the zebra
 Floccinaucinihilipilificate the zebra
 Floor the zebra
 Floss the zebra
+Flout the zebra
 Fly the zebra
 Focus the zebra
 Fold the zebra
