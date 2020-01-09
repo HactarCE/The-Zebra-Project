@@ -382,7 +382,7 @@ Divorce the zebra
 Do the zebra
 Dominate the zebra
 Doom the zebra
-Double the zebra
+Double the zebra zebra
 Downgrade the zebra
 Download the zebra
 Downsample the zebra
@@ -403,7 +403,7 @@ Duel the zebra
 Dull the zebra
 Dunk the zebra
 Dupe the zebra
-Duplicate the zebra
+Duplicate the zebra zebra
 Dust the zebra
 Dye the zebra
 Earn the zebra
@@ -932,7 +932,7 @@ Punt the zebra
 Purchase the zebra
 Puzzle the zebra
 Pwn the zebra
-Quadruple the zebra
+Quadruple the zebra zebra zebra
 Qualify the zebra
 Quantize the zebra
 Quash the zebra
@@ -1313,7 +1313,8 @@ Transmute the zebra
 Transport the zebra
 Traumatize the zebra
 Treat the zebra
-Triple the zebra
+Triple the zebra zebra zebra
+Triplicate the zebra zebra zebra
 Trisect the zebra
 Trump the zebra
 Trust the zebra
