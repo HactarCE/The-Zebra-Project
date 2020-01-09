@@ -596,6 +596,7 @@ Hack the zebra
 Hail the zebra
 Hallow the zebra
 Halt the zebra
+Halve the zebra
 Hammer the zebra
 Hand the zebra
 Handcuff the zebra
@@ -746,6 +747,7 @@ Lock the zebra
 Lose the zebra
 Love the zebra
 Lower the zebra
+Lowercase the zebra
 Macerate the zebra
 Madden the zebra
 Magnetize the zebra
@@ -1352,6 +1354,7 @@ Unzip the zebra
 Update the zebra
 Upgrade the zebra
 Upload the zebra
+Uppercase THE ZEBRA
 Urge the zebra
 Use the zebra
 Vacuum the zebra
