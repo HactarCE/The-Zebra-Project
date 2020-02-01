@@ -934,7 +934,7 @@
 934. Purchase the zebra
 935. Puzzle the zebra
 936. Pwn the zebra
-937. Quadruple the zebra zebra zebra
+937. Quadruple the zebra
 938. Qualify the zebra
 939. Quantize the zebra
 940. Quash the zebra

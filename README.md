@@ -951,7 +951,7 @@ We currently have **1420 things to do with a zebra**! The full list can be found
 934. Purchase the zebra
 935. Puzzle the zebra
 936. Pwn the zebra
-937. Quadruple the zebra zebra zebra
+937. Quadruple the zebra
 938. Qualify the zebra
 939. Quantize the zebra
 940. Quash the zebra
