@@ -105,6 +105,7 @@ Bestow the zebra
 Bet the zebra
 Betray the zebra
 Bewitch the zebra
+Bifurcate the zebra
 Bind the zebra
 Birth the zebra
 Bisect the zebra
@@ -828,6 +829,7 @@ Obliterate the zebra
 Observe the zebra
 Obtain the zebra
 Offer the zebra
+Optimize the zebra
 Organize the zebra
 Orientate the zebra
 Outclass the zebra
@@ -1192,6 +1194,7 @@ Soften the zebra
 Solve the zebra
 Souse the zebra
 Sow the zebra
+Space  t h e   z e b r a
 Spear the zebra
 Specify the zebra
 Spell "the zebra"
@@ -1200,6 +1203,7 @@ Spice the zebra
 Spill the zebra
 Spin the zebra
 Splash the zebra
+Split the ze bra
 Spot the zebra
 Spure the zebra
 Spurn the zebra
