@@ -209,6 +209,7 @@ Color the zebra
 Combine the zebra
 Commend the zebra
 Commit the zebra
+Communize the zebra
 Compel the zebra
 Compile the zebra
 Complete the zebra
@@ -359,6 +360,7 @@ Disable the zebra
 Disassemble the zebra
 Disavow the zebra
 Discharge the zebra
+Discolor the zebra
 Discombobulate the zebra
 Disconnect the zebra
 Discount the zebra
@@ -931,6 +933,7 @@ Pressurize the zebra
 Prettify the zebra
 Price the zebra
 Print the zebra
+Privatize the zebra
 Probe the zebra
 Process the zebra
 Prod the zebra
@@ -1208,6 +1211,7 @@ Snipe the zebra
 Snub the zebra
 Soak the zebra
 Sober the zebra
+Socialize the zebra
 Soften the zebra
 Solve the zebra
 Souse the zebra
