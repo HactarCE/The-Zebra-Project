@@ -1065,6 +1065,7 @@ Refuse the zebra
 Regenerate the zebra
 Regret the zebra
 Regroup the zebra
+Group the zebra
 Regrow the zebra
 Regulate the zebra
 Regurgitate the zebra
