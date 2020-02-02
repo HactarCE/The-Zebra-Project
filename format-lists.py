@@ -24,7 +24,9 @@ markdown_format = {
     'exceptions': {
         'Embolden the zebra': 'Enbolden **the zebra**',
         'Italicize the zebra': 'Italicize *the zebra*',
-        'Strike the zebra': 'Strike ~~the zebra~~'
+        'Strike the zebra': 'Strike ~~the zebra~~',
+        'Subscript the zebra': 'Subscript <sub>the zebra</sub>',
+        'Superscript the zebra': 'Superscript <sup>the zebra</sup>',
     }
 }
 
@@ -51,8 +53,10 @@ formats = [
         'exceptions': {
             'Embolden the zebra': 'Enbolden <b>the zebra</b>',
             'Italicize the zebra': 'Italicize <i>the zebra</i>',
+            'Strike the zebra': 'Strike <strike>the zebra</strike>',
+            'Subscript the zebra': 'Subscript <sub>the zebra</sub>',
+            'Superscript the zebra': 'Superscript <sup>the zebra</sup>',
             'Underline the zebra': 'Underline <u>the zebra</u>',
-            'Strike the zebra': 'Strike <strike>the zebra</strike>'
         }
     }
 ]
