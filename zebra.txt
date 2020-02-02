@@ -219,6 +219,7 @@ Compose the zebra
 Compress the zebra
 Compute the zebra
 Conceptualize the zebra
+Concern the zebra
 Condemn the zebra
 Condense the zebra
 Configure the zebra
@@ -329,6 +330,7 @@ Dent the zebra
 Deny the zebra
 Deobfuscate the zebra
 Deodorize the zebra
+Depict the zebra
 Depilate the zebra
 Deploy the zebra
 Deprecate the zebra
@@ -342,6 +344,7 @@ Design the zebra
 Despise the zebra
 Destroy the zebra
 Desynchronize the zebra
+Detach the zebra
 Deteriorate the zebra
 Detest the zebra
 Detonate the zebra
@@ -502,6 +505,7 @@ Expand the zebra
 Expect the zebra
 Expel the zebra
 Expend the zebra
+Explain the zebra
 Explode the zebra
 Exploit the zebra
 Exponentiate the zebra
@@ -934,6 +938,7 @@ Preprogram the zebra
 Preserve the zebra
 Pressurize the zebra
 Prettify the zebra
+Preview the zebra
 Price the zebra
 Print the zebra
 Privatize the zebra
@@ -989,6 +994,7 @@ Realign the zebra
 Reanimate the zebra
 Reap the zebra
 Reassemble the zebra
+Reattach the zebra
 Reboot the zebra
 Rebuff the zebra
 Rebuild the zebra
@@ -1018,6 +1024,7 @@ Redownload the zebra
 Reduce the zebra
 Reelect the zebra
 Reestablish the zebra
+Reference the zebra
 Refit the zebra
 Reflect the zebra
 Reforge the zebra
@@ -1346,6 +1353,7 @@ Train the zebra
 Tranquilize the zebra
 Transform the zebra
 Translate the zebra
+Transmit the zebra
 Transmogrify the zebra
 Transmute the zebra
 Transport the zebra
