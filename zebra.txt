@@ -69,6 +69,7 @@ Assess the zebra
 Assign the zebra
 Assimilate the zebra
 Assist the zebra
+Associate the zebra
 Atomize the zebra
 Attach the zebra
 Attenuate the zebra
@@ -384,6 +385,7 @@ Disregard the zebra
 Disrupt the zebra
 Dissect the zebra
 Dissemble the zebra
+Dissociate the zebra
 Dissolve the zebra
 Distort the zebra
 Distribute the zebra
@@ -847,6 +849,7 @@ Obfuscate the zebra
 Obliterate the zebra
 Observe the zebra
 Obtain the zebra
+Offend the zebra
 Offer the zebra
 Optimize the zebra
 Organize the zebra
@@ -1100,6 +1103,7 @@ Rewind the zebra
 Riddle the zebra
 Ride the zebra
 Rig the zebra
+Right the zebra
 Ring the zebra
 Ripen the zebra
 Risk the zebra
@@ -1335,6 +1339,8 @@ Toss the zebra
 Toughen the zebra
 Trace the zebra
 Track the zebra
+Trade the zebra
+Traffic the zebra
 Trail the zebra
 Train the zebra
 Tranquilize the zebra
@@ -1441,6 +1447,7 @@ Wrap the zebra
 Wreck the zebra
 Wrestle the zebra
 Write "the zebra"
+Wrong the zebra
 X-ray the zebra
 Xerox the zebra
 Yank the zebra
