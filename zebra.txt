@@ -561,6 +561,7 @@ Filibuster the zebra
 Fill the zebra
 Film the zebra
 Finagle the zebra
+Finalize the zebra
 Find the zebra
 Fine-tune the zebra
 Finesse the zebra
@@ -629,6 +630,7 @@ Grill the zebra
 Grind the zebra
 Groom the zebra
 Ground the zebra
+Group the zebra
 Grow the zebra
 Guesstimate the zebra
 Guide the zebra
@@ -1065,7 +1067,6 @@ Refuse the zebra
 Regenerate the zebra
 Regret the zebra
 Regroup the zebra
-Group the zebra
 Regrow the zebra
 Regulate the zebra
 Regurgitate the zebra
