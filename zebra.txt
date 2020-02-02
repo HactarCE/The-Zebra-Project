@@ -127,6 +127,8 @@ Bore the zebra
 Borrow the zebra
 Bounce the zebra
 Box the zebra
+Brace the zebra
+Bracket [the zebra]
 Braid the zebra
 Brainwash the zebra
 Breach the zebra
@@ -895,6 +897,7 @@ Paint the zebra
 Palpate the zebra
 Pamper the zebra
 Panic the zebra
+Parenthesize (the zebra)
 Park the zebra
 Pass the zebra
 Paste the zebra
