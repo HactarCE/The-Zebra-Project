@@ -312,7 +312,7 @@ We currently have **1465 things to do with a zebra**! The full list can be found
 295. Deconstruct the zebra
 296. Decorate the zebra
 297. Decrement the zebra
-298. Deep fry the zebra
+298. Deep-fry the zebra
 299. Defame the zebra
 300. Defeat the zebra
 301. Defend the zebra
