@@ -252,6 +252,7 @@ Corrupt the zebra
 Count the zebra
 Counter the zebra
 Countermand the zebra
+Couple the zebra
 Cover the zebra
 Crash the zebra
 Crate the zebra
@@ -338,6 +339,7 @@ Depressurize the zebra
 Deprive the zebra
 Deprogram the zebra
 Deprotonate the zebra
+Deregulate the zebra
 Derogate the zebra
 Descend the zebra
 Design the zebra
@@ -509,6 +511,7 @@ Explain the zebra
 Explode the zebra
 Exploit the zebra
 Exponentiate the zebra
+Export the zebra
 Expose the zebra
 Express the zebra
 Extend the zebra
@@ -661,6 +664,7 @@ Immerse the zebra
 Immobilize the zebra
 Impeach the zebra
 Implode the zebra
+Import the zebra
 Impose the zebra
 Impress the zebra
 Imprison the zebra
@@ -840,6 +844,7 @@ Nail the zebra
 Name the zebra
 Narrate the zebra
 Narrow the zebra
+Naturalize the zebra
 Need the zebra
 Negate the zebra
 Nerf the zebra
@@ -1037,6 +1042,7 @@ Regenerate the zebra
 Regret the zebra
 Regroup the zebra
 Regrow the zebra
+Regulate the zebra
 Regurgitate the zebra
 Reimagine the zebra
 Reinspire the zebra
