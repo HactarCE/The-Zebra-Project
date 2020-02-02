@@ -42,6 +42,7 @@ Allocate the zebra
 Allow the zebra
 Alphabetize eht aberz
 Alter the zebra
+Amass the zebra
 Amend the zebra
 Amplify the zebra
 Amputate the zebra
@@ -118,6 +119,7 @@ Blacklist the zebra
 Blackmail the zebra
 Blame the zebra
 Blast the zebra
+Blend the zebra
 Blind the zebra
 Blunt the zebra
 Boil the zebra
@@ -191,6 +193,7 @@ Chew the zebra
 Choke the zebra
 Chomp on the zebra
 Circumnavigate the zebra
+Cite the zebra
 Clarify the zebra
 Classify the zebra
 Clean the zebra
@@ -203,9 +206,11 @@ Clone the zebra
 Close the zebra
 Clothe the zebra
 Coagulate the zebra
+Coalesce the zebra
 Coat the zebra
 Code the zebra
 Collapse the zebra
+Collect the zebra
 Collide the zebra
 Colonize the zebra
 Color the zebra
@@ -229,7 +234,9 @@ Confirm the zebra
 Confound the zebra
 Confront the zebra
 Confuse the zebra
+Conglomerate the zebra
 Congratulate the zebra
+Congregate the zebra
 Conjugate the zebra
 Conjure the zebra
 Connect the zebra
@@ -344,11 +351,13 @@ Deprotonate the zebra
 Deregulate the zebra
 Derogate the zebra
 Descend the zebra
+Describe the zebra
 Design the zebra
 Despise the zebra
 Destroy the zebra
 Desynchronize the zebra
 Detach the zebra
+Detail the zebra
 Deteriorate the zebra
 Detest the zebra
 Detonate the zebra
@@ -365,6 +374,7 @@ Dilate the zebra
 Dilute the zebra
 Dip the zebra
 Disable the zebra
+Disallow the zebra
 Disassemble the zebra
 Disavow the zebra
 Discharge the zebra
@@ -394,6 +404,7 @@ Dissect the zebra
 Dissemble the zebra
 Dissociate the zebra
 Dissolve the zebra
+Distinguish the zebra
 Distort the zebra
 Distribute the zebra
 Ditch the zebra
@@ -474,6 +485,7 @@ Enthuse the zebra
 Entomb the zebra
 Entrance the zebra
 Entrust the zebra
+Enumerate the zebra
 Envision the zebra
 Equalize the zebra
 Equilibrate the zebra
@@ -491,6 +503,7 @@ Evict the zebra
 Eviscerate the zebra
 Exact the zebra
 Exaggerate the zebra
+Examine the zebra
 Excavate the zebra
 Excite the zebra
 Exclude the zebra
@@ -679,6 +692,7 @@ Incorporate the zebra
 Increase the zebra
 Increment the zebra
 Inculcate the zebra
+Individuate the zebra
 Indoctrinate the zebra
 Induce the zebra
 Infantilize the zebra
@@ -797,6 +811,7 @@ Marinate the zebra
 Mark the zebra
 Marry the zebra
 Masculinize the zebra
+Mass the zebra
 Mass-produce the zebra
 Massacre the zebra
 Massage the zebra
@@ -862,6 +877,7 @@ Observe the zebra
 Obtain the zebra
 Offend the zebra
 Offer the zebra
+Operate the zebra
 Optimize the zebra
 Organize the zebra
 Orientate the zebra
@@ -869,12 +885,14 @@ Outclass the zebra
 Outdo the zebra
 Outfox the zebra
 Outlaw the zebra
+Outline the zebra
 Outrun the zebra
 Outsmart the zebra
 Outwit the zebra
 Overcook the zebra
 Overdesign the zebra
 Overengineer the zebra
+Overestimate the zebra
 Overheat the zebra
 Overload the zebra
 Overprice the zebra
@@ -899,6 +917,7 @@ Pamper the zebra
 Panic the zebra
 Parenthesize (the zebra)
 Park the zebra
+Particularize the zebra
 Pass the zebra
 Paste the zebra
 Pay the zebra
@@ -943,6 +962,7 @@ Precompile the zebra
 Predict the zebra
 Preprocess the zebra
 Preprogram the zebra
+Prescribe the zebra
 Preserve the zebra
 Pressurize the zebra
 Prettify the zebra
@@ -963,6 +983,7 @@ Propose the zebra
 Prorate the zebra
 Protect the zebra
 Protonate the zebra
+Provide the zebra
 Prune the zebra
 Pull the zebra
 Pulverize the zebra
@@ -1247,6 +1268,7 @@ Spill the zebra
 Spin the zebra
 Splash the zebra
 Split the ze bra
+Sport the zebra
 Spot the zebra
 Spure the zebra
 Spurn the zebra
@@ -1385,6 +1407,7 @@ Unbalance the zebra
 Unchain the zebra
 Unclog the zebra
 Uncrate the zebra
+Underestimate the zebra
 Underline the zebra
 Underrate the zebra
 Undo the zebra
@@ -1446,6 +1469,7 @@ Wear the zebra
 Weigh the zebra
 Weight the zebra
 Weird the zebra
+Weld the zebra
 Whack the zebra
 Whirl the zebra
 Whitelist the zebra
