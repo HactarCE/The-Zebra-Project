@@ -1281,6 +1281,7 @@ Stab the zebra
 Stake the zebra
 Stalk the zebra
 Stamp the zebra
+Standardize the zebra
 Staple the zebra
 Start the zebra
 Startle the zebra
@@ -1374,6 +1375,7 @@ Time the zebra
 Tip the zebra
 Titrate the zebra
 Toast the zebra
+Tokenize "the" "zebra"
 Torture the zebra
 Toss the zebra
 Toughen the zebra
